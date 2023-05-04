@@ -1,0 +1,3 @@
+hola gdg la paz
+
+este es el taller de git
