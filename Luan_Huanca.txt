@@ -1,0 +1,6 @@
+Git init = para iniciar un repositorio
+Git clone [url] = para clonar un repositorio remoto
+Git status= nos presenta el estado del repositorio
+Git add . = preparamos para hacer el commit
+Git push = subimos cambios al repositorio
+Git pull =   bajamos cambios al repositorio local
